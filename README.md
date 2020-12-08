@@ -9,6 +9,7 @@
 
 东北
 --
+- 哈尔滨工业大学 http://mirrors.hit.edu.cn/
 - 东北大学 http://mirror.neu.edu.cn/
 
 
