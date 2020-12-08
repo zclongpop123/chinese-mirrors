@@ -18,6 +18,7 @@
 --
 - 浙江大学 http://mirrors.zju.edu.cn/
 - 南京大学 http://mirrors.nju.edu.cn/
+- 南京邮电大学 https://mirrors.njupt.edu.cn/
 - 阿里云 https://developer.aliyun.com/mirror/
 - 开源社 http://mirror.azure.cn/
 
