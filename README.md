@@ -33,6 +33,7 @@
 西南
 --
 - 重庆大学 https://mirrors.cqu.edu.cn/
+- 重庆邮电大学 http://mirror.cqupt.edu.cn/
 
 西北
 --
