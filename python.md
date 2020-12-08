@@ -1,4 +1,4 @@
-![image](https://www.python.org/static/img/python-logo.png)
+![image](https://d1q6f0aelx0por.cloudfront.net/product-logos/library-python-logo.png)
 
 
 临时使用
