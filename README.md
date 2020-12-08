@@ -25,6 +25,9 @@
 华南
 --
 
+西南
+--
+- 重庆大学镜像站 https://mirrors.cqu.edu.cn/
 
 西北
 --
