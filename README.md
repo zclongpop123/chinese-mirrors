@@ -35,6 +35,7 @@
 
 西北
 --
+- 西安电子科技大学 https://linux.xidian.edu.cn/mirrors/
 - 兰州大学 http://mirrors.lzu.edu.cn/
 - 西北农林科技大学 https://mirrors.nwsuaf.edu.cn/
 
