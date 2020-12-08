@@ -19,21 +19,26 @@
 - 浙江大学 http://mirrors.zju.edu.cn/
 - 南京大学 http://mirrors.nju.edu.cn/
 - 阿里云 https://developer.aliyun.com/mirror/
+- 开源社 http://mirror.azure.cn/
+
 
 华中
 --
 - 华中科技大学 http://mirrors.hust.edu.cn/
 - 中国科学技术大学 https://mirrors.ustc.edu.cn/
 
+
 华南
 --
 - 华为 https://mirrors.huaweicloud.com/
 - 腾讯 https://mirrors.cloud.tencent.com/
 
+
 西南
 --
 - 重庆大学 https://mirrors.cqu.edu.cn/
 - 重庆邮电大学 http://mirror.cqupt.edu.cn/
+
 
 西北
 --
