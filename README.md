@@ -26,6 +26,7 @@
 
 华南
 --
+腾讯 https://mirrors.cloud.tencent.com/
 
 西南
 --
