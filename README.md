@@ -18,8 +18,16 @@
 - 中国科学技术大学镜像站 https://mirrors.ustc.edu.cn/
 - 阿里云官方镜像站 https://developer.aliyun.com/mirror/
 
+华中
+--
+- 华中科技大学镜像站 http://mirrors.hust.edu.cn/
+
+华南
+--
+
 
 西北
 --
 - 兰州大学镜像站 http://mirrors.lzu.edu.cn/
+- 西北农林科技大学 https://mirrors.nwsuaf.edu.cn/
 
