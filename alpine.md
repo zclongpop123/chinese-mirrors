@@ -1,4 +1,4 @@
-![image](https://alpinelinux.org/alpinelinux-logo.svg)
+![image](https://d1q6f0aelx0por.cloudfront.net/product-logos/library-alpine-logo.png)
 
 
 Alpine
