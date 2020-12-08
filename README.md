@@ -26,8 +26,8 @@
 
 华南
 --
-华为 https://mirrors.huaweicloud.com/
-腾讯 https://mirrors.cloud.tencent.com/
+- 华为 https://mirrors.huaweicloud.com/
+- 腾讯 https://mirrors.cloud.tencent.com/
 
 西南
 --
