@@ -1,3 +1,5 @@
+![image](https://www.centos.org/assets/img/centos-logo-white.png)
+
 Centos
 --
 参考连接
