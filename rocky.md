@@ -1,4 +1,4 @@
-![image](https://raw.githubusercontent.com/rocky-linux/branding/main/logo/out/logo-bg_transparent-primary_black-512x.png)
+![image](https://raw.githubusercontent.com/rocky-linux/branding/main/logo/out/logo-bg_transparent-primary_black-128x.png)
 
 RockyLinux
 --
