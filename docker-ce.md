@@ -1,4 +1,4 @@
-![image](https://raw.githubusercontent.com/rocky-linux/branding/main/logo/out/logo-bg_transparent-primary_black-128x.png)
+![image](https://www.docker.com/sites/default/files/social/docker_facebook_share.png)
 
 Docker
 --
