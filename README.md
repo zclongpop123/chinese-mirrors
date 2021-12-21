@@ -4,6 +4,7 @@
 - 清华大学 https://mirrors.tuna.tsinghua.edu.cn/
 - 北京交通大学 https://mirror.bjtu.edu.cn/cn/
 - 北京理工大学 http://mirror.bit.edu.cn/web/
+- 山东大学 https://mirrors.sdu.edu.cn/
 - 网易 http://mirrors.163.com/
 - 搜狐 http://mirrors.sohu.com/
 
