@@ -28,6 +28,23 @@ dnf makecache
 dnf install docker-ce
 ```
 
+Docker Compose
+--
+下载链接 https://github.com/docker/compose/releases
+
+下载
+```bash
+curl -L "https://github.com/docker/compose/releases/download/1.29.2/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
+```
+添加执行权限
+```bash
+chmod +x /usr/local/bin/docker-compose
+```
+创建软连接
+```bash
+ln -s /usr/local/bin/docker-compose /usr/bin/docker-compose
+```
+
 Docker Hub
 --
 参考连接
