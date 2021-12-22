@@ -8,7 +8,7 @@ http://mirrors.163.com/.help/centos.html
 
 https://mirrors.tuna.tsinghua.edu.cn/help/centos/
 
-- 替换软件园地址
+- 替换软件源地址
   ```bash
   sudo sed -e 's|^mirrorlist=|#mirrorlist=|g' \
          -e 's|^#baseurl=http://mirror.centos.org|baseurl=https://mirrors.tuna.tsinghua.edu.cn|g' \
