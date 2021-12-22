@@ -27,6 +27,11 @@ sed -i 's+download.docker.com+mirrors.tuna.tsinghua.edu.cn/docker-ce+' /etc/yum.
 dnf makecache
 dnf install docker-ce
 ```
+启动
+```bash
+systemctl start docker
+systemctl enable docker
+```
 
 Docker Compose
 --
