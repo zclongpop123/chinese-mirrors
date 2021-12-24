@@ -17,5 +17,5 @@ sed -e 's|^mirrorlist=|#mirrorlist=|g' \
 ```
 更新缓存
 ```bash
-yum makecache
+dnf makecache
 ```
