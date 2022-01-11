@@ -29,8 +29,7 @@ dnf install docker-ce
 ```
 启动
 ```bash
-systemctl start docker
-systemctl enable docker
+systemctl enable --now docker
 ```
 
 Docker Compose
