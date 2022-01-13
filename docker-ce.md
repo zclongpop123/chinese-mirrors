@@ -62,8 +62,7 @@ https://mirrors.ustc.edu.cn/help/dockerhub.html
 {
       "registry-mirrors": [
               "https://hub-mirror.c.163.com",
-              "https://docker.nju.edu.cn/",
-              "https://docker.mirrors.ustc.edu.cn/"
+              "https://docker.nju.edu.cn/"
        ]
 }
 ```
