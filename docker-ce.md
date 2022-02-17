@@ -61,7 +61,7 @@ https://mirrors.ustc.edu.cn/help/dockerhub.html
 ```bash
 {
       "registry-mirrors": [
-              "https://hub-mirror.c.163.com",
+              "https://docker.mirrors.ustc.edu.cn/",
               "https://docker.nju.edu.cn/"
        ]
 }
