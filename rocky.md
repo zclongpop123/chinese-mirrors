@@ -10,6 +10,8 @@ https://mirrors.nju.edu.cn/help/rocky
 
 https://developer.aliyun.com/mirror/rockylinux
 
+---
+
 将所有的官方主镜像地址替换为南京大学镜像站地址
 ```bash
 sed -e 's|^mirrorlist=|#mirrorlist=|g' \
