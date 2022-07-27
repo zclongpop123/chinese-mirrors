@@ -17,7 +17,7 @@ https://developer.aliyun.com/mirror/rockylinux
 sed -e 's|^mirrorlist=|#mirrorlist=|g' \
  -e 's|^#baseurl=http://dl.rockylinux.org/$contentdir|baseurl=https://mirrors.nju.edu.cn/rocky|g' \
  -i.bak \
- /etc/yum.repos.d/Rocky-*.repo
+ /etc/yum.repos.d/[Rr]ocky*.repo
 ```
 更新缓存
 ```bash
