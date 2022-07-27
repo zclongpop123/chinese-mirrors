@@ -60,10 +60,11 @@ https://mirrors.ustc.edu.cn/help/dockerhub.html
 在配置文件 /etc/docker/daemon.json 中加入
 ```bash
 {
-      "registry-mirrors": [
-              "https://docker.mirrors.ustc.edu.cn/",
-              "https://docker.nju.edu.cn/"
-       ]
+    "registry-mirrors": [
+        "https://docker.nju.edu.cn/",
+        "https://hub-mirror.c.163.com",
+        "https://mirror.baidubce.com"
+    ]
 }
 ```
 
