@@ -55,7 +55,6 @@ Docker Hub
 
 https://mirrors.nju.edu.cn/help/docker-hub
 
-https://mirrors.ustc.edu.cn/help/dockerhub.html
 
 在配置文件 /etc/docker/daemon.json 中加入
 ```bash
